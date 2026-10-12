@@ -5,3 +5,4 @@
 !/out/.gitkeep
 *.cpio
 *.cpio.gz
+/out/rootfs/
